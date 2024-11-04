@@ -3,7 +3,7 @@ package praktikum.sesi3;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class Tugas {
+public class TugasKalkulator {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
